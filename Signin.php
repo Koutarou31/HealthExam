@@ -71,6 +71,11 @@
         <div class="input-group">
             <button type="submit">Register</button>
         </div>
+
+        <div>
+                <a href = "index.php">Back</a>
+          
+            </div>
     </form>
 </div>
 

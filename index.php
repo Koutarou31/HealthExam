@@ -143,6 +143,10 @@
             <div class="input-group">
                 <button type="submit" class="login-button">Login</button>
             </div>
+            <div>
+                <a href = "signin.php">Sign-in</a>
+          
+            </div>
         </form>
     </div>
 </div>
